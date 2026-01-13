@@ -17,13 +17,13 @@ I'm Krunal Kayasth,  . Welcome to my GitHub profile!
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvalPtl&show_icons=true&theme=radical)](https://github.com/DhruvalPtl)
+[![Your GitHub Stats]
 
 ## Recent Projects
 
 ## Let's Connect
 
-- LinkedIn:- www.linkedin.com/in/dhruval-patel-063543246
+
 
 
 Feel free to explore my repositories and don't hesitate to reach out!
