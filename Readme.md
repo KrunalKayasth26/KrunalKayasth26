@@ -1,33 +1,24 @@
-# Hi there! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20there!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-I'm Krunal Kayasth,  . Welcome to my GitHub profile!
+<h2 align="center">
+  I'm <b>Krunal Kayasth</b>
+</h2>
 
-## About Me
-
-- 🔭 I’m currently working on ML Model
-- 🌱 I’m currently learning Python,ML,AI
-- 💬 Ask me about AI, Machine Learning
-- 📫 How to reach me: krunalnk2610@gmail.com
-
-## Languages and Tools
-
-[![Python Logo](https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=36BCF7&center=true&vCenter=true&width=800&lines=MTech+AI+Student+at+PDEU;AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+Real-world+Intelligent+Systems;Open+to+AI%2FML+Internships" />
+</p>
 
 
 
-## GitHub Stats
+---
 
-[![Your GitHub Stats]
+## 🧑‍🚀 About Me
 
-## Recent Projects
-
-## Let's Connect
-
-
-
-
-Feel free to explore my repositories and don't hesitate to reach out!
-<!---
-DhruvalPtl/DhruvalPtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```diff
++ 🎓 MTech in Artificial Intelligence (PDEU)
++ 🤖 Deep Learning & Computer Vision Enthusiast
++ 📹 Video Analytics | Surveillance Intelligence
++ 🚨 Crowd Anomaly Detection | Emotion Recognition
++ 🎯 Actively seeking AI/ML Internship opportunities
